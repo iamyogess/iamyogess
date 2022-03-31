@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Yogesh Shrestha
 - 👀 I’m interested in ...Web Devlopment | Programming | Graphics Designing | Exploring
-- 🌱 I’m currently learning ...Web Devlopmene | Programming | 
+- 🌱 I’m currently learning ...Web Development
+ | Programming | 
 - 💞️ I’m looking to collaborate on ...Web Devlopment
 - 📫 How to reach me ...iamyogess@gmail.com
 
